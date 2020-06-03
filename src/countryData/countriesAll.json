@@ -6251,7 +6251,7 @@
     "cioc": "CIV"
   },
   {
-    "name": "Iran (Islamic Republic of)",
+    "name": "Iran",
     "topLevelDomain": [".ir"],
     "alpha2Code": "IR",
     "alpha3Code": "IRN",
@@ -6259,8 +6259,8 @@
     "capital": "Tehran",
     "altSpellings": [
       "IR",
-      "Islamic Republic of Iran",
-      "Jomhuri-ye Eslāmi-ye Irān"
+      "Republic of Iran",
+      "Jomhuri-ye Irān"
     ],
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -6294,9 +6294,9 @@
       "hr": "Iran",
       "fa": "ایران"
     },
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fd/State_flag_of_Iran_%281964%E2%80%931980%29.svg",
     "regionalBlocs": [],
-    "cioc": "IRI"
+    "cioc": "IR"
   },
   {
     "name": "Iraq",

@@ -33,6 +33,13 @@
  
 }
 
+.search{
+ display: flex;
+ justify-content: space-around;
+ list-style-type: none;
+ align-items: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
